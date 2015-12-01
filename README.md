@@ -6,3 +6,6 @@
 1.修改config.php中的数据库账号和密码
 2.在mysql中新建数据库water,将db/water.sql执行。
 3.打开浏览器，输入localhost/water/index.php
+
+
+../bin/indexer -c sphinx.conf article
